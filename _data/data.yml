@@ -146,7 +146,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 100%
+        #level: 100%
 
       - name: Keras
         level: 90%
