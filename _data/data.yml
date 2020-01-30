@@ -81,14 +81,13 @@ experiences:
       time: 2016 - 2017
       company: Infosys Ltd, Bangalore, India
       details: |
-        Developed a verification tool for verifying huge OASIS and GDS semiconductor files.
-        Resolved Comcast's router boot the device 30% faster
-        Worked with AMD's team to develop a platform for SONY's consumer product.
-        Wrote OpenCL and OpenMP code to test the performance of AMD GPU
-        Worked on integrating Linux kernel with AMD Radeon Open Compute (ROCm)
-        Worked on resolving various Linux device driver issues.
-          - Bullet point
-          - Bullet point
+      - Developed a verification tool for verifying huge OASIS and GDS semiconductor files.
+      - Resolved Comcast's router boot the device 30% faster.
+      - Worked with AMD's team to develop a platform for SONY's consumer product.
+      - Wrote OpenCL and OpenMP code to test the performance of AMD GPU.
+      - Worked on integrating Linux kernel with AMD Radeon Open Compute (ROCm).
+      - Worked on resolving various Linux device driver issues.
+          
     - role: Software Engineer
       time: 2013 - 2016
       company: Cisco Video Technologies India Pvt Ltd, Bangalore
